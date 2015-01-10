@@ -106,3 +106,7 @@ end
 This gem was based on the routes system implemented by the [spree_gem](https://github.com/spree/spree), so thank's to all the spree comunity for making that fantastic gem!.
 
 ----------
+
+## **Copyright**
+
+Copyright (c) 2015 Emilio Forrer. See LICENSE.txt for further details.
